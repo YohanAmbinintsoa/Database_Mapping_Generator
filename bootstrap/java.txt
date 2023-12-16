@@ -1,4 +1,5 @@
-package {package};
+extension = .java
+package package_name ;
 
-public class {class} {
+public class class_name {
 

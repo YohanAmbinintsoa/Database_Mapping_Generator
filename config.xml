@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framework>
+    <database jdbc="postgresql">
+        <username>postgres</username>
+        <password>root</password>
+        <databasename>stock</databasename>
+        <driver>org.postgresql.Driver</driver>
+        <port>5432</port>
+        <ip>localhost</ip>
+    </database>
+</framework>
